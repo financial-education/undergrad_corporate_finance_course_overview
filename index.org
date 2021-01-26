@@ -1,6 +1,6 @@
 #+title: Course Overview
 #+author: Matt Brigida, Ph.D.
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-readtheorg.setup
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 
 We are going to study a series of topics in this course which may appear unrelated to the student.  In fact, each topic is a step to our ultimate goal of being able to *value a project or contract* (or equivalently a firm which is simply a collection of projects).
 
@@ -24,12 +24,20 @@ This is our goal in this course, and everything that follows is required knowled
 + Chapter 10 and 11: We learn to measure an asset's risk.
 + Chapter 12 and 13: We use our measure of asset risk to determine the discount rate appropriate to the firm's assets.  We also use this to investigate the capital structure of the firm.
 
-Lastly, let me reiterate the quote from R.W. Hamming in the syllabus:
+Lastly, let me reiterate the quote from [[https://en.wikipedia.org/wiki/Richard_Hamming][R.W. Hamming]] in the syllabus:
 
 #+BEGIN_QUOTE
 "The purpose of computing is insight not numbers".
 #+END_QUOTE
 
-Our calculations are derived from underlying factors, and as these factors change so does our calculation.  There is very little in this course which can simply be memorized. What we aspire to is an understanding of the output we are producing and how it will be used, and how our methods relate to the inputs of our calculation.  Note I mentioned the output first---you need to know what you want before you think about your inputs or methods.
+# Our calculations are derived from underlying factors, and as these factors change so does our calculation.
 
+There is very little in this course which can simply be memorized. What we
+first aspire to is an understanding of the output we are producing and how it
+will be used. Only then can we discuss methods to calculate the output, and
+its required inputs.  Note I mentioned the output first---you need to know
+what you want before you think about how to get it.
+
+#+BEGIN_QUOTE
 And always remember, our output is used to make a business decision. We don't do calculations to fill time.  So producing a number without knowing how to use it is worthless.  
+#+END_QUOTE
